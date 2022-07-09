@@ -1,2 +1,2 @@
 # quote-api
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/app-quote-api.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://app-quote-api.herokuapp.com/)
